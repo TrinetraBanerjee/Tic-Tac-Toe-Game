@@ -4,3 +4,9 @@ This project is a web-based implementation of the classic Tic Tac Toe game using
 This is the recording of how the Tic Tac Toe Game is interacting with the User 
 
 https://github.com/TrinetraBanerjee/Tic-Tac-Toe-Game/issues/1#issue-2315319222
+
+Hosting my Project on github 
+
+Here is the website link 
+
+https://trinetrabanerjee.github.io/Tic-Tac-Toe-Game/
